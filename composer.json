@@ -1,0 +1,13 @@
+{
+    "name": "julle/test-package-c",
+    "description": "Test C",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Christian Jul Jensen",
+            "email": "julle@typo3.org"
+        }
+    ],
+    "require": {
+    }
+}
